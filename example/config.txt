@@ -1,0 +1,2 @@
+Prefix plugins/RemoveUnclassified/example
+Plugin RemoveUnclassified inputfile otus.lefse.txt outputfile otus.lefse.nounclass.txt
